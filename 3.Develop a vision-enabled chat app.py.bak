@@ -6,7 +6,6 @@
 # Participants are requested to comment out the other block of code,
 # e.g., comment the folder section when reading data from a URL, and vice versa.
 
-
 import os
 from urllib.request import urlopen, Request
 import base64
@@ -109,4 +108,6 @@ def main():
 
 if __name__ == '__main__': 
     main()
+
+
 
