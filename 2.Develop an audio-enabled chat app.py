@@ -1,8 +1,9 @@
-# Final code ( end point and key need to updates)
-# Requiremnts
-# Deploy 2 modesl
-# -gpt-4o-mini-transcribe ( key and endpoint )
-# -gpt-4o ( key and endpoint )
+# Final code (endpoint and key need to be updated)
+
+# Requirements
+# Deploy 2 models:
+# - gpt-4o-mini-transcribe (key and endpoint)
+# - gpt-4o (key and endpoint)
 
 
 import os
@@ -80,3 +81,4 @@ def main():
 
 if __name__ == '__main__': 
     main()
+
