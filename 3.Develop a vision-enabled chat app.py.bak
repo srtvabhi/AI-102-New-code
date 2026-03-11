@@ -1,8 +1,10 @@
-# Requirments 
-# GPT 4o Model ( Key and Enpoint)
-# Expectation : this code will read image data from URL and Folder
-# Participants are requestion to comment other block of code 
-# like Folder if reading data from url and vice-versa 
+# Requirements
+# GPT-4o model (key and endpoint)
+
+# Expectation: This code will read image data from a URL or from a folder.
+
+# Participants are requested to comment out the other block of code,
+# e.g., comment the folder section when reading data from a URL, and vice versa.
 
 
 import os
@@ -106,4 +108,5 @@ def main():
 
 
 if __name__ == '__main__': 
+
     main()
